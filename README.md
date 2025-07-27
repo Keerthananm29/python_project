@@ -1,5 +1,5 @@
 ## Hi there 👋
-this repository showa simple task in python and using GUI
+this repository shows simple task in python and using GUI
 <!--
 **Keerthananm29/Keerthananm29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
